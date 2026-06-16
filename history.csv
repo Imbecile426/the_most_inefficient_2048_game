@@ -1,0 +1,4 @@
+Guests,Date_in,Date_out,room_no,room_type,price_per_night,total_price
+ron,2026-05-17,2026-05-17,S01,Single Room,2500,3360
+ron,2026-05-17,2026-05-17,S02,Single Room,2500,3360
+ron; e,2026-05-21,2026-05-17,SU01,Suite,7500,9520
